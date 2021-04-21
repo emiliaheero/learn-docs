@@ -12,7 +12,16 @@ export const data = {
   "excerpt": "",
   "headers": [],
   "filePathRelative": "README.md",
-  "git": {}
+  "git": {
+    "updatedTime": 1618999212000,
+    "contributors": [
+      {
+        "name": "emiliaheero",
+        "email": "emilia.heero@gmail.com",
+        "commits": 1
+      }
+    ]
+  }
 }
 
 if (import.meta.webpackHot) {

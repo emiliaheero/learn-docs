@@ -1,12 +1,12 @@
 export const themeData = {
-  "logo": "![Logo](/learn-docs/images/mm19kompaktlogo.png)",
+  "logo": "![VuePress Logo](/learn-docs/images/mm19kompaktlogo.png)",
   "navbar": [
     {
       "text": "Kodu",
       "link": "/"
     },
     {
-      "text": "tnnusgraafika",
+      "text": "Tunnusgraafika",
       "link": "/tunnusgraafika/"
     },
     {

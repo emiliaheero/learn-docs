@@ -5,7 +5,7 @@ export default [
     name: "v-1ed782c4",
     path: "/prototyypimine/",
     component: Vuepress,
-    meta: { title: "UAUDUHDDB" },
+    meta: { title: "Siia kirjutan meie prototüüpimise tundide kohta" },
   },
   {
     path: "/prototyypimine/index.html",

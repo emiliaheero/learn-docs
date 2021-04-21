@@ -5,7 +5,7 @@ export default [
     name: "v-02fbb21a",
     path: "/tunnusgraafika/",
     component: Vuepress,
-    meta: { title: "hfhaj" },
+    meta: { title: "Siia kirjutan tunnusgraafika tundide tegevusi" },
   },
   {
     path: "/tunnusgraafika/index.html",

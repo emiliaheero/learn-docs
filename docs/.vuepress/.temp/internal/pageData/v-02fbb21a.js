@@ -1,13 +1,29 @@
 export const data = {
   "key": "v-02fbb21a",
   "path": "/tunnusgraafika/",
-  "title": "hfhaj",
+  "title": "Siia kirjutan tunnusgraafika tundide tegevusi",
   "lang": "et",
   "frontmatter": {},
   "excerpt": "",
-  "headers": [],
+  "headers": [
+    {
+      "level": 2,
+      "title": "21 aprill",
+      "slug": "_21-aprill",
+      "children": []
+    }
+  ],
   "filePathRelative": "tunnusgraafika/README.md",
-  "git": {}
+  "git": {
+    "updatedTime": 1618999212000,
+    "contributors": [
+      {
+        "name": "emiliaheero",
+        "email": "emilia.heero@gmail.com",
+        "commits": 1
+      }
+    ]
+  }
 }
 
 if (import.meta.webpackHot) {

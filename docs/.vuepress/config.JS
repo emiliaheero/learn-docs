@@ -1,12 +1,12 @@
 module.exports = {
     lang: "et",
-    title: "Te",
-    description: "See on mu esimene Vuepressi leht! Tegelt teine",
+    title: "Tere!",
+    description: "See on mu esimene Vuepressi leht! Lõpuks ometi",
     base: "/learn-docs/",
     dest: "gh-pages",
   
     themeConfig: {
-      logo: "![VuePress Logo](/learn-docs/images/kass.png)",
+      logo: "![VuePress Logo](/learn-docs/images/mm19kompaktlogo.png)",
       navbar: [
         // esileht
         {
@@ -15,7 +15,7 @@ module.exports = {
         },
         // teine leht teises folderis
         {
-          text: "tnnusgraafika",
+          text: "Tunnusgraafika",
           link: "/tunnusgraafika/",
         },
         // kolmas leht kolmandas folderis jne

@@ -1,3 +1,4 @@
-# hfhaj
+# Siia kirjutan tunnusgraafika tundide tegevusi
 
-tekst tekst
+## 21 aprill
+alguses vaatasime tehtud mockupe (visiitkaardid, kirjablanketid, märkmikud, t-särgid), siis tegime lõpuks korda dokuveebi!
