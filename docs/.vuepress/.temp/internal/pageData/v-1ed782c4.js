@@ -15,8 +15,13 @@ export const data = {
   ],
   "filePathRelative": "prototyypimine/README.md",
   "git": {
-    "updatedTime": 1618999212000,
+    "updatedTime": 1619019218000,
     "contributors": [
+      {
+        "name": "emiliaheero",
+        "email": "82941017+emiliaheero@users.noreply.github.com",
+        "commits": 1
+      },
       {
         "name": "emiliaheero",
         "email": "emilia.heero@gmail.com",
