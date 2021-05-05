@@ -11,16 +11,22 @@ export const data = {
       "title": "20 aprill",
       "slug": "_20-aprill",
       "children": []
+    },
+    {
+      "level": 2,
+      "title": "27 aprill",
+      "slug": "_27-aprill",
+      "children": []
     }
   ],
   "filePathRelative": "prototyypimine/README.md",
   "git": {
-    "updatedTime": 1619019218000,
+    "updatedTime": 1619521538000,
     "contributors": [
       {
         "name": "emiliaheero",
         "email": "82941017+emiliaheero@users.noreply.github.com",
-        "commits": 1
+        "commits": 2
       },
       {
         "name": "emiliaheero",
@@ -29,17 +35,4 @@ export const data = {
       }
     ]
   }
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
 }
